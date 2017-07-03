@@ -1,9 +1,8 @@
-import { Component } from "@angular/core";
-
+import { Component, OnInit } from "@angular/core";
 import { User } from "../../shared/user/user";
 import { UserService } from "../../shared/user/user.service";
-
 import { Router } from "@angular/router";
+import { Page } from "ui/page";
 
 @Component({
   selector: "my-app",
@@ -11,11 +10,11 @@ import { Router } from "@angular/router";
   templateUrl: "pages/login/login.html",
   styleUrls: ["pages/login/login-common.css", "pages/login/login.css"],
 })
-export class LoginComponent {
+export class LoginComponent implements OnInit {
   user: User;
   isLoggingIn = true;
 
-  constructor(private router: Router, private userService: UserService) {
+  constructor(private router: Router, private userService: UserService, private page: Page) {
     this.user = new User();
   }
   submit() {
@@ -31,6 +30,10 @@ export class LoginComponent {
         () => this.router.navigate(["/list"]),
         (error) => alert("Unfortunately we could not find your account.")
       );
+  }
+  ngOnInit() {
+    this.page.actionBarHidden = true;
+    this.page.backgroundImage = "res://bg_login";
   }
   signUp() {
     this.userService.register(this.user)
