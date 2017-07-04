@@ -10,7 +10,7 @@
         "spec": "0.8.2",
         "type": "version"
       },
-      "/Users/lunakang/development/Edibles/node_modules/nativescript-template-ng-groceries"
+      "/Users/lunakang/development/Edibles"
     ]
   ],
   "_from": "zone.js@0.8.2",
@@ -38,13 +38,14 @@
     "type": "version"
   },
   "_requiredBy": [
-    "/nativescript-template-ng-groceries"
+    "#USER",
+    "/"
   ],
   "_resolved": "https://registry.npmjs.org/zone.js/-/zone.js-0.8.2.tgz",
   "_shasum": "85d2c9d4c2cdb36eaeab4b50be68e06bf72be86c",
   "_shrinkwrap": null,
   "_spec": "zone.js@0.8.2",
-  "_where": "/Users/lunakang/development/Edibles/node_modules/nativescript-template-ng-groceries",
+  "_where": "/Users/lunakang/development/Edibles",
   "author": {
     "name": "Brian Ford"
   },
