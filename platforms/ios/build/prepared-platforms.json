@@ -10,6 +10,7 @@
     "@angular/router": true,
     "email-validator": true,
     "nativescript-angular": true,
+    "nativescript-social-share": true,
     "nativescript-theme-core": true,
     "reflect-metadata": true,
     "rxjs": true,

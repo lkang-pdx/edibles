@@ -21,10 +21,20 @@ export class LoginComponent implements OnInit {
   constructor(private router: Router, private userService: UserService, private page: Page) {
     this.user = new User();
   }
+
+  ngOnInit() {
+    this.page.actionBarHidden = true;
+    this.page.backgroundImage = "res://bg_login";
+  }
+
   submit() {
     if (!this.user.isValidEmail()) {
       alert("Enter a valid email address.");
       return;
+    } 
+    
+    if (this.isLoggingIn) {
+      this.login();
     } else {
       this.signUp();
     }
@@ -36,10 +46,7 @@ export class LoginComponent implements OnInit {
         (error) => alert("Unfortunately we could not find your account.")
       );
   }
-  ngOnInit() {
-    this.page.actionBarHidden = true;
-    this.page.backgroundImage = "res://bg_login";
-  }
+
   signUp() {
     this.userService.register(this.user)
       .subscribe(

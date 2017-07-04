@@ -254,7 +254,7 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		bb6iQ5SxlVKHVW5exqN9OtHubSI=
+		Jg7EtOaHyJPGI2uR75nxM8CM80A=
 		</data>
 		<key>app/app.module.js</key>
 		<data>
@@ -290,11 +290,11 @@
 		</data>
 		<key>app/pages/list/list.component.js</key>
 		<data>
-		ktKJNsPTr5x68vjE2c4P31J3xmE=
+		4zTquZBlCX69btL2JLf1pgH5PAw=
 		</data>
 		<key>app/pages/list/list.component.ts</key>
 		<data>
-		CwT+sHA22PyE4/glauunRm1ZsGo=
+		sLDd+s812SgE9CnUSPI0WlBmHjM=
 		</data>
 		<key>app/pages/list/list.css</key>
 		<data>
@@ -302,7 +302,7 @@
 		</data>
 		<key>app/pages/list/list.html</key>
 		<data>
-		l6WJ7dVc7QbBNm9+SE/eQyTtUEg=
+		3mSpLheQ817OPmg3mx9ZCWRFInQ=
 		</data>
 		<key>app/pages/login/login-common.css</key>
 		<data>
@@ -4167,6 +4167,30 @@
 		<key>app/tns_modules/nativescript-intl/package.json</key>
 		<data>
 		hbTOrWlSjb/rPVELGTTAlCXA7qM=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/.npmignore</key>
+		<data>
+		f4imN+GAeyy7dqUdNjyK9ZoX4Tg=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/LICENSE</key>
+		<data>
+		o04jwQu5p6hhxqR5/iFcFkeBKWo=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/README.md</key>
+		<data>
+		x0V44YFY41Son71bKo0QfPNH37k=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/index.d.ts</key>
+		<data>
+		GkeL9wCquJ85g+6aD53+vDvlPbY=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/package.json</key>
+		<data>
+		e91rncT+3l2Kldk8l5ksDPk+zyw=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/social-share.js</key>
+		<data>
+		pcS0q5HpZxXvj8o9a4fDT//S/0U=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -12512,11 +12536,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bb6iQ5SxlVKHVW5exqN9OtHubSI=
+			Jg7EtOaHyJPGI2uR75nxM8CM80A=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0ZzgB+Gxci5DSaIkkhZjBIPJwBm0LrA2xE7YNlPw0U=
+			Mmx6YcRV2mnk1lmkz3I6Z7ZXq1MmYtgX2RewxNcvB3g=
 			</data>
 		</dict>
 		<key>app/app.module.js</key>
@@ -12611,22 +12635,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ktKJNsPTr5x68vjE2c4P31J3xmE=
+			4zTquZBlCX69btL2JLf1pgH5PAw=
 			</data>
 			<key>hash2</key>
 			<data>
-			BW6t6lITLa0CLpOswnivygp7E+en/iVyfn7klOSzLJo=
+			QEaUVLy0lgTYDfta8S2dJl4sdIW1utm9KlQ9wvgSI/w=
 			</data>
 		</dict>
 		<key>app/pages/list/list.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CwT+sHA22PyE4/glauunRm1ZsGo=
+			sLDd+s812SgE9CnUSPI0WlBmHjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			gKHQKtUjgwuFTiY+ImrDk/Fn1SN9x+FIDfqzwi6o7ns=
+			hfomPBlGwB5Rwj877kFbPuc//FRyZiNgxjPp9qM6L5k=
 			</data>
 		</dict>
 		<key>app/pages/list/list.css</key>
@@ -12644,11 +12668,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l6WJ7dVc7QbBNm9+SE/eQyTtUEg=
+			3mSpLheQ817OPmg3mx9ZCWRFInQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			W57+XXSyRKJsw6GA+C7vuvJE95zcvD/CCXC6Vx8SlS4=
+			4GZcgF9R3qeTLu/IgwyWKbJctwkRPiZMrkeMwfK6/KU=
 			</data>
 		</dict>
 		<key>app/pages/login/login-common.css</key>
@@ -23275,6 +23299,72 @@
 			<key>hash2</key>
 			<data>
 			dOdaLchoEP0wo2UT3gCkg9X7UbeZoi00liYtXwSD57I=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/.npmignore</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f4imN+GAeyy7dqUdNjyK9ZoX4Tg=
+			</data>
+			<key>hash2</key>
+			<data>
+			1IbGITFT/Aze9VCVATh3RYQ3QkdL3i3D7WAiL6Keo9o=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o04jwQu5p6hhxqR5/iFcFkeBKWo=
+			</data>
+			<key>hash2</key>
+			<data>
+			H6niC1PvNpgkjWUHyOJ69hp/GsKNKgHh2ax9Ept8xxM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x0V44YFY41Son71bKo0QfPNH37k=
+			</data>
+			<key>hash2</key>
+			<data>
+			coETglUonjdFC2zSVHzzHmxqbh/T8GaiVLMm4mmXo10=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GkeL9wCquJ85g+6aD53+vDvlPbY=
+			</data>
+			<key>hash2</key>
+			<data>
+			TmBhlB2ah+35CYOvPt63BVWQhsc2dkJpEbobi1cmsHs=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e91rncT+3l2Kldk8l5ksDPk+zyw=
+			</data>
+			<key>hash2</key>
+			<data>
+			qGDNtqUCeslwxwu3Cqw6/Q03B1OprrkoTW5iyJP6fOk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/social-share.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pcS0q5HpZxXvj8o9a4fDT//S/0U=
+			</data>
+			<key>hash2</key>
+			<data>
+			6xfSx2zUc9A3an7Quc2rv7KcvJqjiGWqr1MhIKuCDEY=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
